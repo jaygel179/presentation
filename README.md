@@ -1,3 +1,3 @@
 # presentation
 
-<img src="https://rawgit.com/jaygel179/presentation/master/sample.svg">
+<img src="https://cdn.jsdelivr.net/gh/jaygel179/presentation/sample.svg">
